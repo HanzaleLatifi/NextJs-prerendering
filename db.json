@@ -21,5 +21,50 @@
             "description":"description 3"
 
         }
+    ],
+    "blogs":[
+        {
+            "id":1,
+            "title":"React",
+            "category":"front-end",
+            "description":"description 1"
+
+        },
+        {
+            "id":2,
+            "title":"Vue",
+            "category":"front-end",
+            "description":"description 2"
+
+        },
+        {
+            "id":3,
+            "title":"Node",
+            "category":"back-end",
+            "description":"description 3"
+
+        },
+        {
+            "id":4,
+            "title":"Tailwind",
+            "category":"front-end",
+            "description":"description 4"
+
+        },
+        {
+            "id":5,
+            "title":"css",
+            "category":"front-end",
+            "description":"description 5"
+
+        },
+        {
+            "id":6,
+            "title":"html",
+            "category":"front-end",
+            "description":"description 6"
+
+        }
+
     ]
 }
